@@ -13,7 +13,7 @@ Some of these are actually backlog items I have learned over the years but keep 
 ### Categories
 
 * [Azure](#azure)
-* [Raspberry Pi](#raspberrypi)
+* [Raspberry Pi](#raspberry-pi)
 * [Workflow](#workflow)
 
 ---
