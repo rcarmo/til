@@ -6,11 +6,14 @@ A collection of concise write-ups on small things I learn day to day.
 
 I used to keep [a similar HOWTO section over at my blog](https://taoofmac.com/space/HOWTO), but the idea of experimenting with a fresh, public repository of useful snippets is appealing to me, and it is much better than a bunch of random `gists`.
 
+Some of these are actually backlog items I have learned over the years but keep misplacing, so they're not always "fresh" info.
+
 ---
 
 ### Categories
 
 * [Azure](#azure)
+* [Raspberry Pi](#raspberrypi)
 * [Workflow](#workflow)
 
 ---
@@ -19,6 +22,9 @@ I used to keep [a similar HOWTO section over at my blog](https://taoofmac.com/sp
 
 - [Setting Azure Blob Storage Tiers In Bulk](azure/setting-blob-storage-tiers-in-bulk.md)
 
+### Raspberry Pi
+
+- [Enabling `cgroups` for running `k3s`](rpi/enable-cgroups-for-running-k3s.md)
 
 ### Workflow
 
