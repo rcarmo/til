@@ -4,7 +4,7 @@
 
 [Pop!_OS][popos], the Linux distro developed by [System76][system76], almost makes up for its silly name by shipping with a very nicely done auto-tiling Gnome shell extension (available at [`pop-os/shell`](https://github.com/pop-os/shell)):
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-fltwBKsMY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Pop!_OS Auto-Tiling](https://img.youtube.com/vi/-fltwBKsMY0/0.jpg)](https://www.youtube.com/watch?v=-fltwBKsMY0)
 
 ## macOS
 
