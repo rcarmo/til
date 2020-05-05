@@ -8,7 +8,8 @@
 
 ## macOS
 
-[Magnet][magnet] does the same thing on macOS, and if it supported saving pre-defined window layouts I would switch away from [Moom][moom].
+* [Magnet][magnet] does almost the same thing on macOS, and if it supported saving pre-defined window layouts I would switch away from [Moom][moom].
+* [Amethyst](https://github.com/ianyh/Amethyst) is likely the best tiled window manager for the Mac, but the default keyboard bindings are somewhat annoying after years of [Moom][moom].
 
 ## Windows
 
