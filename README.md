@@ -30,6 +30,7 @@ Some of these are actually backlog items I have learned over the years but keep 
 
 - [Automatic Window Tiling](workflow/automatic-window-tiling.md)
 - [Running Web Apps as Desktop Apps](workflow/running-web-apps-as-desktop-apps.md)
+- [Faster `.DS_Store` Removal](workflow/faster-dsstore-rms.md)
 
 ## About
 
