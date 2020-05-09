@@ -1,3 +1,4 @@
+# Faster `.DS_Store` Removal
 
 Today we were cleaning up files, and one of my buddies used this:
 
