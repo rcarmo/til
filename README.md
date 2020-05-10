@@ -22,6 +22,11 @@ Some of these are actually backlog items I have learned over the years but keep 
 
 - [Setting Azure Blob Storage Tiers In Bulk](azure/setting-blob-storage-tiers-in-bulk.md)
 
+### macOS
+
+- [Clearing Quarantine for Casks](macos/clearing-quarantine-for-casks.md)
+- [Faster `.DS_Store` Removal](macos/faster-dsstore-rms.md)
+
 ### Raspberry Pi
 
 - [Enabling `cgroups` for running `k3s`](rpi/enable-cgroups-for-running-k3s.md)
@@ -30,7 +35,6 @@ Some of these are actually backlog items I have learned over the years but keep 
 
 - [Automatic Window Tiling](workflow/automatic-window-tiling.md)
 - [Running Web Apps as Desktop Apps](workflow/running-web-apps-as-desktop-apps.md)
-- [Faster `.DS_Store` Removal](workflow/faster-dsstore-rms.md)
 
 ## About
 
